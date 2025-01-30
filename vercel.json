@@ -1,7 +1,7 @@
 {
   "rewrites" :[
     {
-      "source" : "/(.*)", "destination": "/"
+      "source" : "/", "destination": "/Untitled-1.html"
     }
   ]
 }
